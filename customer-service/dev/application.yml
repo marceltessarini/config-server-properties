@@ -8,4 +8,4 @@ spring:
     console:
       settings:
         trace: true 
-outraCoisa: false
+outraCoisa: true
